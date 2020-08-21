@@ -12,7 +12,7 @@ git clone https://github.com/AlejandroAb/ENA-downloader-tool.git
 Add the Java CLASSPATH according to your download location:
 
 ```
-export CLASSPATH=/your/download/location/FOA/build/classes:/your/download/location/javalibs/\*
+export CLASSPATH=/your/download/location/FOA/build/classes
 ``` 
 
 Display help munu
