@@ -1,4 +1,4 @@
-# ENA-downloader-tool
+# ENA downloader tool
 
 This tool downloads specific samples from ENA. For this, you can download the summary file from any ENA project or search result, from there, subset your target samples or add samples from other ENA summary file and use it to download all your samples with a simple command.
 
