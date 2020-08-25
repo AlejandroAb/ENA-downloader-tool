@@ -15,7 +15,7 @@ Add the Java CLASSPATH according to your download location:
 export CLASSPATH=/your/download/location/FOA/build/classes
 ``` 
 
-Display help munu
+Display help mEnu
 
 ```
 java foa.ENASync --help
